@@ -1,0 +1,8 @@
+@media (max-width: 1440px;) {
+  div.img-responsive {
+    width: 50%;
+    display: block;
+    text-align: center;
+    clear:none;
+  }
+}
